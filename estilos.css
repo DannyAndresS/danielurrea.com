@@ -222,7 +222,7 @@ span
 {
     width:100%;
     height: 155px;
-    background-image: url(2-original.png);
+    background-image: url('https://raw.githubusercontent.com/DannyAndresS/danielurrea.com/9f2c6f5e5d2576b0a5a597571b865714b2db35cd/2-original.png');
     
     background-size: cover;
 }
