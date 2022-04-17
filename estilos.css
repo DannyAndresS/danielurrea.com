@@ -215,7 +215,7 @@ span
 {
     width:100%;
     height: 155px;
-    background-image: url(./img/tiendaporta.png);
+    background-image: url("https://raw.githubusercontent.com/DannyAndresS/danielurrea.com/main/tiendaporta.png");
     background-size: cover;
 }
 .card__img4
